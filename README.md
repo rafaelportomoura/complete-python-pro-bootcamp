@@ -138,5 +138,7 @@ This course covers the following topics:
 
 ## Days
 
-1. [Day 1 - Beginner - Working with Variables in Python to Manage Data](./Day%201%20-%20Begginer%20%20-%20Working%20with%20Variables%20in%20Python%20to%20Manage%20Data/day1.ipynb)
-2. [Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings]()
+### Beginner
+
+1. [Day 1 - Working with Variables in Python to Manage Data](./Begginer/day1.ipynb)
+2. [Day 2 - Understanding Data Types and How to Manipulate Strings]()
