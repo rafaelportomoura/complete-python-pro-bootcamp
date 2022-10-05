@@ -142,3 +142,4 @@ This course covers the following topics:
 
 1. [Day 1 - Working with Variables in Python to Manage Data](./Begginer/day1.ipynb)
 2. [Day 2 - Understanding Data Types and How to Manipulate Strings](./Begginer/day2.ipynb)
+3. [Day 3 - Control Flow and Logical Operators](./Begginer/day3.ipynb)
